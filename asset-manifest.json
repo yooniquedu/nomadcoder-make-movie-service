@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reactMovie/static/js/main.e8d407d4.js",
-    "index.html": "/reactMovie/index.html",
-    "main.e8d407d4.js.map": "/reactMovie/static/js/main.e8d407d4.js.map"
+    "main.js": "/nomadcoder-make-movie-service/static/js/main.70d00cdd.js",
+    "index.html": "/nomadcoder-make-movie-service/index.html",
+    "main.70d00cdd.js.map": "/nomadcoder-make-movie-service/static/js/main.70d00cdd.js.map"
   },
   "entrypoints": [
-    "static/js/main.e8d407d4.js"
+    "static/js/main.70d00cdd.js"
   ]
 }
