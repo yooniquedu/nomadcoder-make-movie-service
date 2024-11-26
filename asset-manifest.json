@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomadcoder-make-movie-service/static/js/main.335a2536.js",
+    "index.html": "/nomadcoder-make-movie-service/index.html",
+    "main.335a2536.js.map": "/nomadcoder-make-movie-service/static/js/main.335a2536.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.335a2536.js"
+  ]
+}
